@@ -1,7 +1,11 @@
 {
+  "type": "module",
   "dependencies": {
     "@sparticuz/chromium": "^138.0.2",
+    "@supabase/supabase-js": "^2.57.2",
+    "dotenv": "^17.2.2",
     "pg": "^8.16.3",
+    "postgres": "^3.4.7",
     "puppeteer-core": "^24.19.0"
   }
 }
